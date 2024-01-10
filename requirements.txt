@@ -1,1 +1,9 @@
-requests==2.28.1
+alive_progress==3.1.5
+beautifulsoup4==4.12.2
+fredapi==0.5.1
+numpy==1.24.3
+pandas==2.0.3
+plotly==5.9.0
+Requests==2.31.0
+seaborn==0.13.1
+yfinance==0.2.33
